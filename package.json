@@ -1,16 +1,17 @@
 {
-  "name": "testes_express",
+  "name": "nodejs_express_api_boilerplate",
   "version": "1.0.0",
-  "description": "testes com express",
+  "description": "Boilerplate using nodejs with express and postgres",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node index.js"
   },
   "keywords": [
-    "testes",
+    "nodejs",
     "express",
-    "node"
+    "api",
+    "postgres"
   ],
   "author": "Fernando Wobeto",
   "license": "MIT",
